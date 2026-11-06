@@ -12,9 +12,7 @@ I'm a web developer based in Lahore, Pakistan. I have two years of experience bu
 
 [LinkedIn](https://www.linkedin.com/in/usmansheikh6412/)
 
-## Featured Project — Final Circle Esports
-
-I built a custom WordPress plugin for a PUBG Mobile esports portal with a focus on South Asia. I used AI-assisted coding to develop and refine the plugin. The portal brings tournament schedules, match results, and esports coverage into one place.
+## Featured Project — Final Circle EsportsI built this PUBG Mobile esports website for a South Asian audience using a custom WordPress plugin developed with AI-assisted coding. The portal brings tournament schedules, match results, and esports coverage into one place.
 
 - **Tournament directory** with filters for status, tier, game, region, and season.
 - **Team and player directories** alongside roster transfer coverage.
