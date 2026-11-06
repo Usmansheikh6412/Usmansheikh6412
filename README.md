@@ -30,3 +30,9 @@ I built a custom WordPress plugin for a PUBG Mobile esports portal with a focus 
 ![Tournament directory with filters](final-circle-tournaments.jpg)
 
 ![Esports statistics dashboard](final-circle-statistics.jpg)
+
+### Live event page
+
+The Live page brings the featured tournament’s format, match schedule, broadcast links, prize breakdown, and stage-by-stage standings together. Visitors can also explore game-by-game results and team lineups.
+
+![Final Circle Esports Live event page](final-circle-live.jpg)
