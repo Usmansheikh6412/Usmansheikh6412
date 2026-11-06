@@ -7,3 +7,7 @@ I'm a web developer based in Lahore, Pakistan. I have two years of experience bu
 - **WordPress** — Responsive websites and custom plugins
 - **Shopify and Wix** — Online stores and websites
 - **Vibe coding** — I use AI-assisted coding to turn software ideas into working prototypes, then review the code, test features, and refine the implementation.
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/usmansheikh6412/)
