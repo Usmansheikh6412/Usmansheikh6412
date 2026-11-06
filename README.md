@@ -22,3 +22,11 @@ I built a custom WordPress plugin for a PUBG Mobile esports portal with a focus 
 - **Statistics dashboard** with season, tier, and region filters.
 
 **Status:** Deployed to staging.
+
+### Project screenshots
+
+![Final Circle Esports homepage](final-circle-homepage.jpg)
+
+![Tournament directory with filters](final-circle-tournaments.jpg)
+
+![Esports statistics dashboard](final-circle-statistics.jpg)
